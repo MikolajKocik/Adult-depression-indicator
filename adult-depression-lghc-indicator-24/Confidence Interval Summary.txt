@@ -1,0 +1,17 @@
+Strata,Strata Name,Lower 95% CL,Upper 95% CL,Percent
+Sex,Male,7.32,8.92,8.12
+Sex,Female,14.30,16.20,15.25
+Race-Ethnicity,White,13.67,15.46,14.57
+Race-Ethnicity,Black,10.44,16.65,13.54
+Race-Ethnicity,Hispanic,8.12,10.96,9.54
+Race-Ethnicity,Asian,5.78,7.43,6.25
+Age Group,18-24,9.22,11.15,10.45
+Age Group,25-44,11.45,13.25,12.35
+Age Group,45-64,13.22,15.80,14.60
+Age Group,65+,6.78,8.54,7.45
+Income Level,Low,12.15,14.78,13.35
+Income Level,Middle,10.12,12.67,11.40
+Income Level,High,6.02,8.25,7.10
+Education Level,High School,10.55,12.65,11.45
+Education Level,Bachelor's Degree,7.32,9.15,8.22
+Education Level,Graduate Degree,5.18,7.05,6.10
