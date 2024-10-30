@@ -5,9 +5,17 @@ Welcome to the Adult Depression Indicator Report! This repository hosts a Power 
 
 This Power BI report provides a comprehensive analysis of depression frequency among adults, segmented by age, sex, education level, income, and race/ethnicity. The report is designed to help users identify trends, compare annual data, and analyze depression prevalence across demographic groups.
 
+**Table of Contents**:
+- [Dashboard](depression-frequency-dashboard)
+- [Key Features](key-features)
+- [Repository structure](repository-structure)
+- [How to use](how-to-use)
+- [Report insights](report-insights)
+- [Requirements](requirements)
 
+## Dashboard in use:
 
-
+![Dashboard](img/screen.PNG)
 
 
 ## 🎯 Key Features
